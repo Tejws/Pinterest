@@ -1,0 +1,18 @@
+<% include ./partials/header.ejs %>
+ 
+<div class="w-full h-screen bg-center bg-cover bg-[url('https://i.pinimg.com/564x/45/fe/99/45fe99dac03fd1b198273dfda1e82800.jpg')] flex items-center justify-center">
+<div class="w-[25vw] h-[60vh] bg-white px-20 py-8  rounded-[30px]">
+<h1 class="text-3xl text-center leading-none font-semibold">Welcome to pinterest.</h1>
+<form action="/login" method="post">
+  <input class="border-2 block mt-4 w-full px-3 py-2 rounded-md"type="text" name="username" placeholder="username">
+  <input class="border-2 block mt-4 w-full px-3 py-2 rounded-md"type="password" name="password" placeholder="password">
+  <a class="mt-2 py-2 font-semibold text-zinc-500 inline-block" href="#">Forgotten your password?</a>
+  <input class="border-2 block mt-4 w-full px-3 py-2 bg-red-600 text-white rounded-md"type="submit">
+<p class="text-xs font-semibold text-zinc-500 py-5 text-center mt-7 w-3/4 mx-auto">asfds sdaasdsa sdas dasg dsfghfhfh sfsdghsdgsd  safas f saf af asfsaf safa fasf asf asf asfsfsfaf asfsaf</p>
+
+</form>
+<a class ="inline-block mt-7 text-sm font-semibold text-zinc-700 text-center w-full " href="/register">Dont have an account ?</a>
+</div>
+</div>
+
+<% include ./partials/footer.ejs %>
