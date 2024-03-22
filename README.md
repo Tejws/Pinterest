@@ -11,3 +11,4 @@
 ![pinterest_5](https://github.com/Tejws/Pinterest/assets/154742112/37f75859-7cb5-4f9d-a30e-d930d41a9149)
 #Every user's pins
 ![pinterest_6](https://github.com/Tejws/Pinterest/assets/154742112/587d6e06-8284-4528-9b1f-f948e8802ae7)
+ 
